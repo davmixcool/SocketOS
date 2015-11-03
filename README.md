@@ -1,2 +1,2 @@
-# Socket
-A highly extensible web OS
+# SocketOS
+A highly extensible php OS
